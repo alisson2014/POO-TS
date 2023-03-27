@@ -2,7 +2,7 @@
 
 desenvolvido por [Alisson Vinicius](https://github.com/alisson2014)
 
-#### Projeto desenvolvido com conceitos básicos de typescript
+#### Projeto desenvolvido com conceitos objetivo de treinar programação orientada a objetos com typescript, foram criadas varias classes que se extendem de uma principal e possuem métodos que simulam um banco virtual.
 
 ### Tecnologias
 
